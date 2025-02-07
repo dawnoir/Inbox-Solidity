@@ -5,8 +5,8 @@ const {abi, evm } = require('./compile');
 
 
 const provider = new HDWalletProvider(
-	'one subway list series awake cave someone torch bracket brush chaos lazy',
-	'https://sepolia.infura.io/v3/6f968d1ef7b4485ca20b08562dcb1757'
+	'UR MNEMONIC KEY',
+	'URL OF UR TESTNETWORK'
 );
 
 const web3 = new Web3(provider);
